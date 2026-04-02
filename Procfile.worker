@@ -1,0 +1,4 @@
+# =========================
+# Procfile.worker
+# =========================
+worker: python -m app.worker
